@@ -1,0 +1,2 @@
+# TCC-Analise-de-sentimento-em-feedbacks-discentes-sobre-a-qualidade-do-ensino
+Desenvolvimento de um estudo comparativo para análise de sentimentos em comentários discentes, utilizando técnicas de Processamento de Linguagem Natural (NLP) e aprendizado profundo. O trabalho avaliou modelos baseados em Transformers, com foco na identificação automática de sentimentos positivos, negativos e neutros em feedbacks educacionais reais
